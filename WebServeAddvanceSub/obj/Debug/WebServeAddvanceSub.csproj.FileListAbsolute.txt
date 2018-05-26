@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\WebServeAddvanceSub\WebServeAddvanceSub\bin\WebServeAddvanceSub.dll.config
+C:\Users\Administrator\Desktop\WebServeAddvanceSub\WebServeAddvanceSub\bin\WebServeAddvanceSub.dll
+C:\Users\Administrator\Desktop\WebServeAddvanceSub\WebServeAddvanceSub\bin\WebServeAddvanceSub.pdb
+C:\Users\Administrator\Desktop\WebServeAddvanceSub\WebServeAddvanceSub\obj\Debug\WebServeAddvanceSub.dll
+C:\Users\Administrator\Desktop\WebServeAddvanceSub\WebServeAddvanceSub\obj\Debug\WebServeAddvanceSub.pdb
+C:\Users\Administrator\Desktop\开发项目\预分装服务\WebServeAddvanceSub\bin\WebServeAddvanceSub.dll.config
+C:\Users\Administrator\Desktop\开发项目\预分装服务\WebServeAddvanceSub\bin\WebServeAddvanceSub.dll
+C:\Users\Administrator\Desktop\开发项目\预分装服务\WebServeAddvanceSub\bin\WebServeAddvanceSub.pdb
+C:\Users\Administrator\Desktop\开发项目\预分装服务\WebServeAddvanceSub\obj\Debug\WebServeAddvanceSub.dll
+C:\Users\Administrator\Desktop\开发项目\预分装服务\WebServeAddvanceSub\obj\Debug\WebServeAddvanceSub.pdb
+C:\Users\Administrator\Desktop\开发项目\预分装服务\WebServeAddvanceSub\obj\Debug\WebServeAddvanceSub.csprojResolveAssemblyReference.cache
